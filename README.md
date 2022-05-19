@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ash Madden
 - 🐨 I’m A Front End Web Developer From Australia
 - 🌱 I've Been Coding Since 2018
-- 🧠 HTML5, CSS3, JavaScript, React, jQuery, Bootstrap 5, WordPress, PHP, Laravel, mySQL, Adobe Suite, Blender, Figma. 
+- 🧠 HTML5, CSS3, JavaScript, React, jQuery, Bootstrap 5, WordPress, Node.js, mySQL, Adobe Suite, Blender, Figma. 
 - 🕸️ www.innerworld.com.au 
 
 <!---
