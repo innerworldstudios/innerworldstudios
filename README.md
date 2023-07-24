@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Ash Madden
-- 🐨 I’m A Front End Web Developer From Australia
-- 🌱 I've Been Coding Since 2018
-- 🧠 HTML5, CSS3, JavaScript, React, jQuery, Bootstrap 5, WordPress, Node.js, mySQL, Adobe Suite, Blender, Figma. 
-- 🕸️ www.innerworld.com.au 
+I'm a developer from Melbourne Australia. I have experience with these technologies
+
+Frontend:  HTML, CSS (CSS Modules, Bootstrap, Tailwind, CSS-In-JS), JavaScript (Vanilla, React, jQuery)
+Backend: PHP, Node.js
 
 <!---
 ashmaddenweb/ashmaddenweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
