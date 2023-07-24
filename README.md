@@ -1,4 +1,4 @@
-I'm a developer from Melbourne Australia. I have experience with these technologies
+I'm a developer from Melbourne Australia. I have experience with the following technologies
 
 Frontend:  HTML, CSS (CSS Modules, Bootstrap, Tailwind, CSS-In-JS), JavaScript (Vanilla, React, jQuery)
 Backend: PHP, Node.js
